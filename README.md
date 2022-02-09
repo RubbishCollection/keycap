@@ -1,2 +1,2 @@
 # keycap
-keycap is simple proxy
+keycap is simple front proxy server
